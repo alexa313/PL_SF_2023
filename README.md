@@ -1,6 +1,7 @@
 ## Антонова А.Г.
 ### Модель [seara/rubert-tiny2-cedr-russian-emotion](https://huggingface.co/seara/rubert-tiny2-cedr-russian-emotion) используется для определения эмоций в коротких русских текстах и возвращает результат в формате словаря. Можно применять в различных сценариях, связанных с анализом тональности, эмоциональным анализом текста, мониторингом социальных медиа-публикаций и других задачах, где требуется определение эмоций в тексте на русском языке.
-### The task is a multi-label classification with the following labels:
+<summary> The task is a multi-label classification with the following labels:</summary>
+
 ```
 0: no_emotion
 1: joy
